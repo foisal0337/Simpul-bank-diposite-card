@@ -1,0 +1,33 @@
+body {
+    padding: 100px;
+}
+
+.submit-area {
+    margin-top: 50px;
+    padding: 35px;
+    box-shadow: 5px 5px 15px gray;
+    border: 10px green;
+}
+
+#transition-area {
+    display: none;
+}
+
+.status {
+    color: white;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.diposit {
+    background-color: blue;
+}
+
+.withdrow {
+    background-color: darkkhaki;
+}
+
+.balance {
+    background-color: darkgoldenrod;
+}
